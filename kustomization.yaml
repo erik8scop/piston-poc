@@ -1,0 +1,5 @@
+namespace: piston-namespace
+commonLabels:
+  app: bingo
+resources:
+- deployment.yaml
